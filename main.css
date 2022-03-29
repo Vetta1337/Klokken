@@ -1,6 +1,7 @@
 body {
   white-space: pre;
   font-family: monospace;
+  font-size: large;
 }
 
 .container {
@@ -11,4 +12,5 @@ body {
 span {
   display: table;
   margin: 0 auto;
+  
 }
