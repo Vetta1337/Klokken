@@ -1,0 +1,14 @@
+body {
+  white-space: pre;
+  font-family: monospace;
+}
+
+.container {
+  margin-top: 300px;
+  text-align: center;
+}
+
+span {
+  display: table;
+  margin: 0 auto;
+}
